@@ -1,0 +1,57 @@
+body {
+  background: #f7f7f7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 500px;
+  border: 5px solid rgb(108, 124, 233);
+  border-radius: 25px;
+  box-shadow: 13px 13px 20px #cbced1,
+    -13px -13px 20px rgb(192, 193, 223);
+
+}
+
+.app-title{
+  text-align: center;
+  color: rgb(108, 124, 233);
+  font-size: 70px;
+}
+
+input {
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+
+li{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn{
+  background: red;
+  color: white;
+  border-radius: 5px;
+  margin: 20px;
+  width: 35px;
+  height: 35px;
+  box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #fff;
+}
+
+.add-btn{
+  background: lightblue;
+  border-radius: 5px;
+  
+  width: 40px;
+  height: 40px;
+  box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #fff;
+}
+
+.list{
+  list-style-type: none;
+}
+
+
