@@ -1,4 +1,4 @@
-![App Image](https://github.com/psarge2/react-todo-list/blob/master/public/Kwik-List-Thumb.png)
+![App Image](https://github.com/psarge2/react-todo-list/blob/master/public/Kwik-List-Image.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
